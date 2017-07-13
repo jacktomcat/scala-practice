@@ -29,11 +29,18 @@
           <version>2.12.1</version>
       </dependency>
 
-      <!-- https://mvnrepository.com/artifact/com.typesafe.akka/akka-actor_2.11 -->
+      <!-- https://mvnrepository.com/artifact/org.scala-lang/scala-actors -->
       <dependency>
-          <groupId>com.typesafe.akka</groupId>
-          <artifactId>akka-actor_2.11</artifactId>
-          <version>2.4.2</version>
+          <groupId>org.scala-lang</groupId>
+          <artifactId>scala-actors</artifactId>
+          <version>2.11.8</version>
+      </dependency>
+
+      <!-- https://mvnrepository.com/artifact/org.scala-lang.modules/scala-xml_2.11 -->
+      <dependency>
+          <groupId>org.scala-lang.modules</groupId>
+          <artifactId>scala-xml_2.11</artifactId>
+          <version>1.0.6</version>
       </dependency>
 
   </dependencies>

@@ -1,4 +1,4 @@
-package scala.com.chsoft.common
+package com.chsoft.common
 
 // 私有构造方法
 class Marker private(val color:String) {

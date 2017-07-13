@@ -1,4 +1,4 @@
-package scala.com.chsoft.common
+package com.chsoft.common
 
 import Array._
 import scala.util.control.Breaks._

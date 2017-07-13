@@ -1,4 +1,4 @@
-package scala.com.chsoft.common
+package com.chsoft.common
 
 /**
  * 函数可以被简单的任务是包裹了一条或者几条语句的代码体，该代码接收若干参数，经过代码体处理后返回结果，形如

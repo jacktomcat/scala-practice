@@ -1,4 +1,4 @@
-package scala.com.chsoft.common
+package com.chsoft.common
 
 import scala.collection.immutable.List
 import scala.util.control.Breaks

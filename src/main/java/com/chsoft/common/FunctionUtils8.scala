@@ -1,4 +1,4 @@
-package scala.com.chsoft.common
+package com.chsoft.common
 
 import java.util.Date
 

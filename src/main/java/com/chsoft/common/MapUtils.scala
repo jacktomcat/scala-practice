@@ -1,6 +1,4 @@
-package scala.com.chsoft.common
-
-import sun.org.mozilla.javascript.internal.ast.Yield
+package com.chsoft.common
 
 
 

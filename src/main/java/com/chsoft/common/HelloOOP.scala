@@ -1,4 +1,4 @@
-package scala.com.chsoft.common
+package com.chsoft.common
 
 /**
  *   1、	可以使用new ClassName的方式构建出类的对象

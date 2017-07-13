@@ -1,12 +1,11 @@
-package scala.com.chsoft.common;
+package com.chsoft.common;
 
-import java.util.Arrays;
 
 /**
  * Created by zhuhuihui on 17/2/23.
  */
 public final class Test1 {
-    private final char value[] ;
+    private char value[] = null;
 
     private Test1(){
         this.value = new char['1'];

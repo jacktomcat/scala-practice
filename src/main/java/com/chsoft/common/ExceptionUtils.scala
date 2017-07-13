@@ -1,4 +1,4 @@
-package scala.com.chsoft.common
+package com.chsoft.common
 
 import java.io.FileNotFoundException
 import java.io.IOException

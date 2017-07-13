@@ -1,4 +1,4 @@
-package scala.com.chsoft.common
+package com.chsoft.common
 
 /**
   * Created by zhuhuihui on 16/12/3.
